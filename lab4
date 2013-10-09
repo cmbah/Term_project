@@ -1,0 +1,10 @@
+public class HelloWorld{
+ public void methodA{
+  //User A:Enter your code below this line
+  }
+  
+  public void methodC{
+  //Both users should have this file
+  }
+
+}
